@@ -9,6 +9,19 @@ layout: default
             {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
+          <!-- Social -->
+          {%- if page.social %}
+            <div class="social">
+              <div class="contact-icons">
+                {% include social.html %}
+              </div>
+
+              <div class="contact-note">
+                {{ site.contact_note }}
+              </div>
+
+            </div>
+          {%- endif %}
         </header>
 
         <article>
@@ -48,29 +61,15 @@ layout: default
           {%- endif %}
 
           <!-- Latest posts -->
-          {% if page.latest_posts -%}
+          <!-- {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
             {%- include latest_posts.html %}
-          {%- endif %}
+          {%- endif %} -->
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
             {%- include selected_papers.html %}
-          {%- endif %}
-
-          <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
-
-            </div>
           {%- endif %}
         </article>
 

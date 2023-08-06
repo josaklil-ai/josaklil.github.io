@@ -5,7 +5,7 @@ permalink: /
 subtitle: <b>PhD student</b> at <a href='https://www.stanford.edu/'>Stanford</a>.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: 
