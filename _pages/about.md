@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>PhD student</b> at <a href='https://www.stanford.edu/'>Stanford</a>.
 
 profile:
   align: right
@@ -16,6 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<b>Currently,</b> I am a Biomedical Informatics PhD student at <a href="https://med.stanford.edu/bmi.html">Stanford University</a> advised by Prof. <a href="https://ai.stanford.edu/~syyeung/">Serena Yeung</a> in the <a href="https://marvl.stanford.edu/">MARVL</a> lab. My research interests are at the intersection of machine learning and healthcare, focusing on computer vision for surgical skill assessment and training. I'm also interested in active learning for mitigating data paucity challenges in medical imaging. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<b>Previously,</b> I received my Bachelor's in Mathematics, Computer Science, and Physics at the <a href="https://ritchieschool.du.edu/academics-education/departments/computer-science">University of Denver</a> ‘20, with a Distinction in Computer Science. 
