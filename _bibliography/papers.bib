@@ -94,10 +94,12 @@
   editor={Lipton, Zachary and Ranganath, Rajesh and Sendak, Mark and Sjoding, Michael and Yeung, Serena},
   volume={182},
   series={Proceedings of Machine Learning Research},
-  month={05--06 Aug},
+  month={Aug},
   publisher={PMLR},
   pdf={https://proceedings.mlr.press/v182/aklilu22a/aklilu22a.pdf},
   url={https://proceedings.mlr.press/v182/aklilu22a.html},
+  abstract={Annotating medical images for the purposes of training computer vision models is an extremely laborious task that takes time and resources away from expert clinicians. Active learning (AL) is a machine learning paradigm that mitigates this problem by deliberately proposing data points that should be labeled in order to maximize model performance. We propose a novel AL algorithm for segmentation, ALGES, that utilizes gradient embeddings to effectively select laparoscopic images to be labeled by some external oracle while reducing annotation effort. Given any unlabeled image, our algorithm treats predicted segmentations as truth and computes gradients with respect to the model parameters of the last layer in a segmentation network. The norms of these per-pixel gradient vectors correspond to the magnitude of the induced change in model parameters and contain rich information about the model’s predictive uncertainty. Our algorithm then computes gradients embeddings in two ways, and we employ a center-finding algorithm with these embeddings to procure representative and diverse batches in each round of AL. An advantage of our approach is extensibility to any model architecture and differentiable loss scheme for semantic segmentation. We apply our approach to a public data set of laparoscopic cholecystectomy images and show that it outperforms current AL algorithms in selecting the most informative data points for improving the segmentation model. Our code is available at https://github.com/josaklil-ai/surg-active-learning.},
+  code={https://github.com/josaklil-ai/surg-active-learning},
   selected={true}
 }
 
