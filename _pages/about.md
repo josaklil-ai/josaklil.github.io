@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (ኢዮስያስ ገብረየሱስ አክሊሉ)<br><b>PhD student</b> at <a href='https://www.stanford.edu/'>Stanford</a>.
+subtitle: <b>PhD student</b> at <a href='https://www.stanford.edu/'>Stanford</a>.
 
 profile:
   align: left
