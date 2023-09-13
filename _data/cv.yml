@@ -1,12 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Josiah Aklilu
-    - name: Date of Birth
-      value: 2 February 1998
-    - name: Languages
-      value: English, Amharic
 
 - title: Education
   type: time_table
@@ -25,7 +16,7 @@
       institution: University of Denver, Denver, Colorado
       year: 2020
       description:
-        - coursework: Partial Differential Equations, Advanced Linear Algebra, Calculus of Several Variables, Topics in Artificial Intelligence, Advanced Data Structures and Algorithms, Graph Theory, Uncertainty and Error Analysis, Intro to Real Analysis, Intro to Abstract Algebra, Quantum Physics, Numerical and Computational Methods in Physics, Analytical Mechanics
+        - Partial Differential Equations, Advanced Linear Algebra, Calculus of Several Variables, Topics in Artificial Intelligence, Advanced Data Structures and Algorithms, Graph Theory, Uncertainty and Error Analysis, Intro to Real Analysis, Intro to Abstract Algebra, Quantum Physics, Numerical and Computational Methods in Physics, Analytical Mechanics
 
 - title: Experience
   type: time_table
