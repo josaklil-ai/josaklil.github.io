@@ -2,8 +2,8 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: false
-nav_order: 4
+nav: true
+nav_order: 1
 cv_pdf: example_pdf.pdf
-description: You can download my CV here.
+description: 
 ---
