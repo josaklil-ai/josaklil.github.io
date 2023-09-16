@@ -2,7 +2,7 @@
 layout: default
 ---
 <!-- _layouts/cv.html -->
-{% unless site.data.resume %}
+<!-- {% unless site.data.resume %} -->
 <div class="post">
 
   <header class="post-header">
@@ -44,7 +44,7 @@ layout: default
   </article>
 
 </div>
-{% else %}
+<!-- {% else %}
 <div class="post">
 
   <header class="post-header">
@@ -52,7 +52,7 @@ layout: default
     {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
 
-  <!-- <h4>Table of contents</h4>
+  <h4>Table of contents</h4>
   <ul class="timeline">
   {% for entry in site.data.resume %}
     {% if site.jsonresume and site.jsonresume.size > 0 %}
@@ -65,7 +65,7 @@ layout: default
     {% endif %}
     <li><a href="#{{ entry[0] }}"><span class="badge-toc">{{ entry[0] | capitalize }}</span></a></li>
   {% endfor %}
-  </ul> -->
+  </ul>
 
   <article>
     <div class="cv">
@@ -115,4 +115,4 @@ layout: default
   </article>
 
 </div>
-{% endunless %}
+{% endunless %} -->
