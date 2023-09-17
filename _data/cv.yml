@@ -19,28 +19,28 @@
   contents:
     - title: Graduate Teaching Assistant
       department: Representations and Algorithms for Computational Molecular Biology
-      institution: Stanford University, Stanford, California
+      institution: Stanford University
       year: 2021-2022
       description:
         - TA for an advanced course in computational methods for molecular biology. Topics ranged from algorithms for biological sequence alignment, phylogenetic tree creation, hidden Markov models, protein structure prediction, protein energetics, chemoinformatics, pharmacogenomics, and applications of classical machine learning methods for biomolecular data.
         - Held office hours and graded assignments for a class of over 100 students.
     - title: Recitation Instructor
       department: Discrete Structures
-      institution: University of Denver, Denver, Colorado
+      institution: University of Denver
       year: 2019
       description:
         - Instructed in course material ranging from topics in bit-wise operations, counting, combinatorics, probability, and set logic.
         - Lead one-hour recitation sessions for approximately 10 students once per week.
     - title: Undergraduate Teaching Assistant
       department: NoSQL Databases for Big Data
-      institution: University of Denver, Denver, Colorado
+      institution: University of Denver
       year: 2018
       description:
         - TA for summer introductory course in NoSQL databases with topics ranging from writing queries for non-relational databases to exploring different types of database models like graphical (Neo4j) and document-based (MongoDB).
         - Graded assignments for class of over 20 students.
     - title: Recitation Instructor
       department: Introduction to Data Structures and Algorithms
-      institution: University of Denver, Denver, Colorado
+      institution: University of Denver
       year: 2017-2019
       description:
         - Instructed and reinforced topics discussed in lecture and explained course material including implementations of various graph algorithms, algorithm runtime complexities, sorting and string-matching algorithms, tree representations, and various algorithm design paradigms.
