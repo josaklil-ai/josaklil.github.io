@@ -5,44 +5,44 @@
       institution: Stanford University, Stanford, California
       year: now
       description:
-        - title: Advised by Prof. Serena Yeung
-        - Completed coursework in Convex Optimization (EE364A), Deep Learning for Computer Vision (CS231n), Natural Language Processing with Deep Learning (CS224n), Applied Multivariate Statistics, Representations and Algorithms for Computational Molecular Biology, Statistical Inference, Data Science for Medicine
+        - <b>Advised by Prof. <a href="https://ai.stanford.edu/~syyeung/">Serena Yeung</a></b>
+        - Convex Optimization (EE364A), Deep Learning for Computer Vision (CS231n), Natural Language Processing with Deep Learning (CS224n), Applied Multivariate Statistics, Representations and Algorithms for Computational Molecular Biology, Statistical Inference, Data Science for Medicine
     - title: B.S. in Mathematics, Computer Science, and Physics
       institution: University of Denver, Denver, Colorado
       year: 2020
       description:
-        - title: Dean's List (GPA 3.95/4)
-        - Partial Differential Equations, Advanced Linear Algebra, Calculus of Several Variables, Topics in Artificial Intelligence, Advanced Data Structures and Algorithms, Graph Theory, Uncertainty and Error Analysis, Intro to Real Analysis, Intro to Abstract Algebra, Quantum Physics, Numerical and Computational Methods in Physics, Analytical Mechanics
+        - <b>Dean's List (GPA 3.95/4)</b>
+        - Partial Differential Equations, Advanced Linear Algebra, Calculus of Several Variables, Topics in Artificial Intelligence, Advanced Data Structures and Algorithms, Graph Theory, Uncertainty and Error Analysis, Numerical and Computational Methods in Physics, Analytical Mechanics, Quantum Physics
 
 - title: Experience
   type: time_table
   contents:
     - title: Graduate Teaching Assistant
+      department: Representations and Algorithms for Computational Molecular Biology
       institution: Stanford University, Stanford, California
       year: 2021-2022
       description:
-        - <b>Representations and Algorithms for Computational Molecular Biology</b>
         - TA for an advanced course in computational methods for molecular biology. Topics ranged from algorithms for biological sequence alignment, phylogenetic tree creation, hidden Markov models, protein structure prediction, protein energetics, chemoinformatics, pharmacogenomics, and applications of classical machine learning methods for biomolecular data.
         - Held office hours and graded assignments for a class of over 100 students.
     - title: Recitation Instructor
+      department: Discrete Structures
       institution: University of Denver, Denver, Colorado
       year: 2019
       description:
-        - <b>Discrete Structures</b>
         - Instructed in course material ranging from topics in bit-wise operations, counting, combinatorics, probability, and set logic.
         - Lead one-hour recitation sessions for approximately 10 students once per week.
     - title: Undergraduate Teaching Assistant
+      department: NoSQL Databases for Big Data
       institution: University of Denver, Denver, Colorado
       year: 2018
       description:
-        - <b>NoSQL Databases for Big Data</b>
         - TA for summer introductory course in NoSQL databases with topics ranging from writing queries for non-relational databases to exploring different types of database models like graphical (Neo4j) and document-based (MongoDB).
         - Graded assignments for class of over 20 students.
     - title: Recitation Instructor
+      department: Introduction to Data Structures and Algorithms
       institution: University of Denver, Denver, Colorado
       year: 2017-2019
       description:
-        - <b>Introduction to Data Structures and Algorithms</b>
         - Instructed and reinforced topics discussed in lecture and explained course material including implementations of various graph algorithms, algorithm runtime complexities, sorting and string-matching algorithms, tree representations, and various algorithm design paradigms.
         - Lead one-hour recitation sessions for approximately 15 students twice per week.
 
@@ -50,11 +50,17 @@
   type: time_table
   contents:
     - title: William K. Bowes Jr. Fellow, <a href="https://vpge.stanford.edu/fellowships-funding/sgf">Stanford Graduate Fellowship</a>
-      institution: Stanford University, Stanford, California
+      institution: Stanford University
       year: 2020
     - title: University of Denver Distinction in Computer Science
-      institution: University of Denver, Denver, Colorado
+      institution: University of Denver
       year: 2020
     - title: Hornbeck Scholar
-      institution: University of Denver, Denver, Colorado
+      institution: University of Denver
       year: 2019
+
+# - title: Volunteer Experience
+#   type: time_table
+#   contents:
+#     - title: Academic Fellow
+#       department: 
