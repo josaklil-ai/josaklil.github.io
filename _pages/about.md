@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>PhD candidate</b> at <a href='https://www.stanford.edu/'>Stanford</a>.
+subtitle: <b>PhD candidate</b> at <a href='https://www.stanford.edu/'>Stanford</a>
 
 profile:
   align: left
