@@ -30,17 +30,8 @@ layout: default
               alt=page.profile.image
               cache_bust=true -%}
             {% endif -%}
-            {%- if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
-            </div>
-            {%- endif %}
           </div>
           {%- endif %}
-
-          <div class="clearfix">
-            {{ content }}
-          </div>
 
           <!-- Name and Title -->
           <div class="name-and-title">
