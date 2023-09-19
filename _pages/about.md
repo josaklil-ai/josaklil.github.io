@@ -17,6 +17,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <b>Currently,</b> I'm a Biomedical Informatics PhD student at <a href="https://med.stanford.edu/bmi.html">Stanford University</a> advised by Prof. <a href="https://ai.stanford.edu/~syyeung/">Serena Yeung</a> in the <a href="https://marvl.stanford.edu/">MARVL</a> lab. My research interests are at the intersection of machine learning and healthcare, centered in computer vision for surgical skill assessment and training.
-&nbsp;
-&nbsp;
+
+
 <b>Previously,</b> I received my Bachelor's in Mathematics, Computer Science, and Physics at the <a href="https://ritchieschool.du.edu/academics-education/departments/computer-science">University of Denver</a> with a Distinction in Computer Science. 
