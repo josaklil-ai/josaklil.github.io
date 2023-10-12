@@ -6,7 +6,7 @@ subtitle: <b>PhD candidate</b> at <a href='https://www.stanford.edu/'>Stanford</
 
 profile:
   align: left
-  image: new_photo.jpg
+  image: DBDS23_headshot_0315.png
   image_circular: false # crops the image to make it circular
   address: 
 
