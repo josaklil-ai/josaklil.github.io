@@ -2,5 +2,6 @@ github_users:
   - josaklil-ai
 
 github_repos:
+  - tempconfx/AL-foundation-models
   - josaklil-ai/surg-active-learning
   - josaklil-ai/lapnet
