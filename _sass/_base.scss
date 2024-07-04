@@ -130,11 +130,11 @@ blockquote {
 }
 
 .profile.float-right {
-  margin-left: 2rem;
+  margin-left: 1.5rem;
 }
 
 .profile.float-left {
-  margin-right: 2rem;
+  margin-right: 1.5rem;
 }
 
 @media (min-width: 576px) {
@@ -649,7 +649,7 @@ footer.sticky-bottom {
       .links {
         a.btn {
           color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
+          border: 2px solid var(--global-text-color);
           padding-left: 1rem;
           padding-right: 1rem;
           padding-top: 0.25rem;
