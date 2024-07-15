@@ -14,7 +14,7 @@
         - <b>Dean's List (GPA 3.95/4)</b>
         - Partial Differential Equations, Advanced Linear Algebra, Calculus of Several Variables, Topics in Artificial Intelligence, Advanced Data Structures and Algorithms, Graph Theory, Uncertainty and Error Analysis, Numerical and Computational Methods in Physics, Analytical Mechanics, Quantum Physics
 
-- title: Experience
+- title: Academic Experience
   type: time_table
   contents:
     - title: Graduate Teaching Assistant
@@ -49,6 +49,9 @@
 - title: Honors
   type: time_table
   contents:
+    - title: Apple PhD Fellowship in AI/ML Nominee
+      institution: Stanford University
+      year: 2023
     - title: William K. Bowes Jr. Fellow, <a href="https://vpge.stanford.edu/fellowships-funding/sgf">Stanford Graduate Fellowship</a>
       institution: Stanford University
       year: 2020
@@ -58,6 +61,11 @@
     - title: Hornbeck Scholar
       institution: University of Denver
       year: 2019
+
+- title: Professional Services
+  type: list
+  contents:
+    - Conference Reviewer: MLHC (2022-2024), DEMI@ MICCAI (2024)
 
 - title: Volunteer Experience
   type: time_table

@@ -19,4 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-<b>Previously,</b> I received my Bachelor's in Mathematics, Computer Science, and Physics at the <a href="https://ritchieschool.du.edu/academics-education/departments/computer-science">University of Denver</a> with a Distinction in Computer Science. 
+<b>Previously,</b> I received my Bachelor's in Mathematics, Computer Science, and Physics at the <a href="https://ritchieschool.du.edu/academics-education/departments/computer-science">University of Denver</a> with a Distinction in Computer Science.
+
+ 
