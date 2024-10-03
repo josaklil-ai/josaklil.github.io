@@ -1,7 +1,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Biomedical Informatics 
+    - title: Ph.D. in Biomedical Data Science
       institution: Stanford University, Stanford, California
       year: now
       description:
@@ -63,9 +63,10 @@
       year: 2019
 
 - title: Professional Services
-  type: list
+  type: list_groups
   contents:
-    - Conference Reviewer: MLHC (2022-2024), DEMI@ MICCAI (2024)
+    - title: Conference Reviewer
+      description: MLHC (2022-2024), DEMI@ MICCAI (2024)
 
 - title: Volunteer Experience
   type: time_table
